@@ -28,12 +28,12 @@ self.__precacheManifest = [
     "url": "/static/media/terraformProviders.1c18b3d3.md"
   },
   {
-    "revision": "6a7fe2fff2b94f593b0df26c0ef6c966",
-    "url": "/static/media/alliance.6a7fe2ff.woff"
-  },
-  {
     "revision": "436d77056c6e937ed1dfbb5a60e3fa9a",
     "url": "/static/media/PublicSans-Regular.436d7705.woff"
+  },
+  {
+    "revision": "6a7fe2fff2b94f593b0df26c0ef6c966",
+    "url": "/static/media/alliance.6a7fe2ff.woff"
   },
   {
     "revision": "c0a890c3e048bfde50df179f0f2fa09b",
